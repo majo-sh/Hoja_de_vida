@@ -15,3 +15,11 @@ Este proyecto contiene el código fuente de mi hoja de vida personal creada con 
 
 
 Puedes ver la página en funcionamiento en este [enlace de GitHub Pages](https://majo-sh.github.io/Hoja_de_vida/).
+
+## Créditos
+
+Este proyecto utiliza una plantilla de HTML y CSS proporcionada por [Ives van Hoorne](https://github.com/CompuIves), bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+
+### Licencia
+
+El código de este proyecto está licenciado bajo la licencia MIT. Puedes ver los detalles en el archivo `LICENSE`.
