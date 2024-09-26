@@ -14,4 +14,4 @@ Este proyecto contiene el código fuente de mi hoja de vida personal creada con 
 
 
 
-Puedes ver la página en funcionamiento en este [[enlace de GitHub Pages](https://majo-sh.github.io/Hoja_de_vida/)](#) .
+Puedes ver la página en funcionamiento en este [enlace de GitHub Pages](https://majo-sh.github.io/Hoja_de_vida/).
