@@ -18,6 +18,6 @@ Puedes ver la página en funcionamiento en este [enlace de GitHub Pages](https:/
 
 ## Créditos
 
-Este proyecto utiliza una plantilla de HTML y CSS proporcionada por [Ives van Hoorne](https://github.com/CompuIves), bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+Este proyecto utiliza una plantilla de CodeSandbox proporcionada por [Ives van Hoorne](https://github.com/CompuIves), bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
 
